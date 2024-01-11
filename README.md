@@ -1,2 +1,2 @@
-# G-r-nt-S-nfland-rma
+# GoruntuSiniflandirma
 Sınıflandırma.kopyapy
